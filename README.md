@@ -1,4 +1,4 @@
-![Graphic illustrating connections between academic institution, lab sequencing, innovation, data analysis, testing, epidemiology, training, and clinical research.](https://www.cdc.gov/amd/images/whats-new/2022/PGCoE-illustration-v5.jpg?_=80401)
+![Graphic illustrating connections between academic institution, lab sequencing, innovation, data analysis, testing, epidemiology, training, and clinical research.](https://github.com/CDCgov/AMD-PGCoE/blob/readme_updates_01242024/PGCoE-illustration-long-header.jpg)
 
 # Pathogen Genomics Centers of Excellence (PGCoE) CDCgov GitHub
 
