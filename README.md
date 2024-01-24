@@ -1,14 +1,16 @@
-# CDCgov GitHub Organization Open Source Project Template
-
 ![Graphic illustrating connections between academic institution, lab sequencing, innovation, data analysis, testing, epidemiology, training, and clinical research.](https://www.cdc.gov/amd/images/whats-new/2022/PGCoE-illustration-v5.jpg?_=80401)
 
-**Template for clearance: This project serves as a template to aid projects in starting up and moving through clearance procedures. To start, create a new repository and implement the required [open practices](open_practices.md), train on and agree to adhere to the organization's [rules of behavior](rules_of_behavior.md), and [send a request through the create repo form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u) using language from this template as a Guide.**
+# Pathogen Genomics Centers of Excellence (PGCoE) CDCgov GitHub
+
+**Welcome to this repository, which will serve as a central link to connect the respective GitHub repositories of the five sites within the PGCoE network.**
 
 **General disclaimer** This repository was created for use by CDC programs to collaborate on public health related projects in support of the [CDC mission](https://www.cdc.gov/about/organization/mission.htm).  GitHub is not hosted by the CDC, but is a third party website used by CDC and its partners to share information and collaborate on software. CDC use of GitHub does not imply an endorsement of any one particular service, product, or enterprise. 
 
-## Access Request, Repo Creation Request
+## Overview of the PGCoE network
 
-* [CDC GitHub Open Project Request Form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u) _[Requires a CDC Office365 login, if you do not have a CDC Office365 please ask a friend who does to submit the request on your behalf. If you're looking for access to the CDCEnt private organization, please use the [GitHub Enterprise Cloud Access Request form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUQjVJVDlKS1c0SlhQSUxLNVBaOEZCNUczVS4u).]_
+The Pathogen Genomics Centers of Excellence (PGCoE) network is meant to foster and improve innovation and technical capacity in pathogen genomics, molecular epidemiology, and bioinformatics to better prevent, control, and respond to microbial threats of public health importance. The network also represents an unprecedented opportunity to expand and deepen collaboration between U.S. public health agencies and academic institutions to form a national resource to better prevent, control, and respond to microbial threats of public health importance.
+
+The five centers of excellence each consist of a health department and one or more academic institutions. The recipients are the [Georgia Department of Public Health](https://dph.georgia.gov/), the [Massachusetts Department of Public Health](https://www.mass.gov/orgs/department-of-public-health), the [Minnesota Department of Health](https://www.health.state.mn.us/), the [Virginia Division of Consolidated Laboratory Services](https://dgs.virginia.gov/division-of-consolidated-laboratory-services), and the [Washington State Department of Health](https://doh.wa.gov/).
 
 ## Related documents
 
@@ -19,10 +21,6 @@
 * [Contribution Notice](CONTRIBUTING.md)
 * [Code of Conduct](code-of-conduct.md)
 
-## Overview
-
-Describe the purpose of your project. Add additional sections as necessary to help collaborators and potential collaborators understand and use your project.
-  
 ## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not
 subject to domestic copyright protection under 17 USC § 105. This repository is in
